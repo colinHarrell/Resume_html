@@ -1,0 +1,1 @@
+This project transforms my resume into an interactive HTML-based web page using CSS for styling and JavaScript for enhanced functionality. The design mirrors my original PDF resume while adding dynamic elements for improved user experience.
